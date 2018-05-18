@@ -5,4 +5,9 @@
   text-align: center;
 }
 
-audio { display: none; }
+audio { position: fixed; right:0; left: 0; margin: 0 auto; width: 100px; top: 80px;}
+button {
+  position: fixed;
+  right: 5px;
+  top: 5px;
+}
